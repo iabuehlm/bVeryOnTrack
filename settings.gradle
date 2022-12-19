@@ -16,3 +16,4 @@ rootProject.name = "BOnTrack"
 include ':app'
 include ':Common:Application'
 include ':Common:Infrastructure'
+include ':Common:presentation'
