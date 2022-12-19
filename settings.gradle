@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "BOnTrack"
 include ':app'
+include ':Common:Application'
+include ':Common:Infrastructure'

@@ -10,7 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Common" />
-            <option value="$PROJECT_DIR$/Features" />
+            <option value="$PROJECT_DIR$/Common/Application" />
+            <option value="$PROJECT_DIR$/Common/Infrastructure" />
+            <option value="$PROJECT_DIR$/Common/Presentation" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
